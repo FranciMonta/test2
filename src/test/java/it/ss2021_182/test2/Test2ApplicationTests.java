@@ -9,5 +9,10 @@ class Test2ApplicationTests {
 	@Test
 	void contextLoads() {
 	}
+	
+	@Test
+	void provaUno() {
+		System.out.println("uno");
+	}
 
 }
