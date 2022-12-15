@@ -14,5 +14,10 @@ class Test2ApplicationTests {
 	void provaUno() {
 		System.out.println("uno");
 	}
+	
+	@Test
+	void provaDue() {
+		System.out.println("due");
+	}
 
 }
